@@ -1,0 +1,7 @@
+[package]
+name = "zoxide-edit"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+zoxide = { git = "https://github.com/jnooree/zoxide.git", branch = "zoxide-lib" }
